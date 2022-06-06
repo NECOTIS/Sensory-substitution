@@ -1,5 +1,5 @@
 # Sensory-substitution
-Video demonstration for the 2D and 3D mode of the new version of See Differently for the paper  _**Sonified distance in sensory substitution does not always improve localization: comparison with a 2D and 3D handheld device.**_. 
+Video demonstration for the 2D and 3D mode of the new version of See Differently for the paper  _**Sonified distance in sensory substitution does not always improve localization: comparison with a 2D and 3D handheld device.**_ 
 
 **To hear the spatialization of the sound, videos must be listened with headphones.**
 
